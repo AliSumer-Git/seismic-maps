@@ -1,2 +1,2 @@
 Seismic Maps
-[https://manrajsingh.github.io/seismic-maps/]
+[https://AliSumer-Git.github.io/seismic-maps/]
